@@ -20,3 +20,4 @@ description = "MCP server for agents to explore rust docs, analyze source code, 
 # keep defaults in sync with the manifest
 # drop an unused branch
 # drop an unused branch
+# guard against empty input
